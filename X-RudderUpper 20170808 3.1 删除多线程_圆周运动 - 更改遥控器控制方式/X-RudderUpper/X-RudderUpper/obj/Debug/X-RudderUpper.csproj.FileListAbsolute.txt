@@ -1,0 +1,304 @@
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\ControlSystem_2\Upper\Upper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+C:\Users\sniper\Desktop\X-RudderUpper2.0\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现-数据保存效率有问题\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+C:\Users\sniper\Desktop\X-RudderUpper20170420全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+C:\Users\sniper\Desktop\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper20170421全部功能实现并且实现高效保存数据\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170627 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本添加惯导数据校验\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170710 较上一版本更改X舵与十字舵转换\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+E:\潜艇X舵研究\程序设计\上位机多线程测试程序\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170713 多线程\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170717 多线程 待测试 1.1\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170717 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+C:\Users\sniper\Desktop\X-RudderUpper 20170724 多线程 待测试 1.2\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.3\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170724 多线程 待测试 1.4\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.4 完善直线航行按钮\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.pdb
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csprojResolveAssemblyReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.MainForm.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.PID_change.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X_RudderUpper.Properties.Resources.resources
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170731 多线程 待测试 1.5 添加圆周运动_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.GenerateResource.Cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170803 多线程 待测试 2.1 添加圆周运动_卡舵模拟_待测试\X-RudderUpper\X-RudderUpper\bin\Debug\X-RudderUpper.exe.config
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170803 多线程 待测试 2.1 添加圆周运动_卡舵模拟_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170803 多线程 待测试 2.1 添加圆周运动_卡舵模拟_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170803 多线程 待测试 2.1 添加圆周运动_卡舵模拟_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.csproj.ResolveComReference.cache
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170803 多线程 待测试 2.1 添加圆周运动_卡舵模拟_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.exe
+E:\HUST_B.S\科创\——项目\——潜艇X舵\1_Program\X-RudderUpper 20170803 多线程 待测试 2.1 添加圆周运动_卡舵模拟_待测试\X-RudderUpper\X-RudderUpper\obj\Debug\X-RudderUpper.pdb

@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\USER -I ..\CORE -I ..\FWLib\inc
+-I"C:\Users\sniper\Desktop\STM32F103控制板 Lower4.2 - 20170803 - 添加卡舵模拟标志位\USER\RTE"
+-ID:\Keil_MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include
+-ID:\Keil_MDK\ARM\CMSIS\Include
+-D__UVISION_VERSION="521" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER
+-o ..\obj\init_usart.o --omf_browse ..\obj\init_usart.crf --depend ..\obj\init_usart.d "Init_USART.c"
